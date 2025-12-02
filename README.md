@@ -3,7 +3,7 @@
 > Experiential designer • Data & analytics tinkerer • Lifelong learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Charu%20Jain-blue?logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-charu%40example.com-red?logo=gmail)](mailto:charu@example.com)
+[![Email](https://img.shields.io/badge/Email-charu%40example.com-red?logo=gmail)](mailto:charus0720@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-orange?logo=github)](https://your-portfolio.example.com)
 
 ---
@@ -57,7 +57,7 @@ I craft immersive experiences that blend soundscapes, visuals and environmental 
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/  
+- LinkedIn: https://www.linkedin.com/in/charu-jain-868408331/
 - Email: charus0720@gmail.com 
 
 ---
