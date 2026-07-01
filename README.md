@@ -32,7 +32,14 @@
 
 ### 📊 Data Analytics Projects
 
-> 🚧 New portfolio in progress — check back soon for Power BI dashboards, SQL case studies, and Python EDA notebooks.
+**[Military Analytics Dashboard](https://github.com/springboardmentor9999x-rgb/Military-Analytics-Dashboard/tree/Charu_Jain)** — *Springboard Mentorship Program*
+Built an end-to-end data pipeline analyzing and comparing military strength metrics across countries:
+- **Scraped** structured data (personnel, equipment, force strength) from GlobalFirepower.com using Python, Requests, and BeautifulSoup
+- **Cleaned & transformed** raw data into analysis-ready datasets using Pandas
+- **Prepared KPIs and visualizations** for cross-country military capability comparison
+- Tech: `Python` `Pandas` `BeautifulSoup` `Jupyter Notebook`
+
+> 🚧 More dashboards in progress — check back soon for additional Power BI and SQL case studies.
 
 ---
 
@@ -40,9 +47,9 @@
 
 These aren't analytics work, but they show the same underlying skill set: careful, methodical, detail-driven problem solving.
 
-- **[Linux IAM Hardening](https://github.com/charu-2009/Linux-IAM-Hardening-mini-Users-Groups-Permissions-)** — Designed a secure user/group permission model on Linux, identified and remediated access-control vulnerabilities, and documented findings in a remediation report.
-- **[Attack Detection & Hardening Using SIEM](https://github.com/charu-2009/Attack-Detection-Hardening-of-Enterprise-Infrastructure-Using-SIEM)** — Set up SIEM-based detection for an enterprise-style infrastructure, monitored for intrusion patterns, and hardened the environment against identified attack vectors.
-- **[Network Penetration Testing](https://github.com/charu-2009/Network-Penetration-Testing-with-Real-World-Exploits-and-Security-Remediation)** — Ran real-world exploit simulations against a test network and produced a security remediation plan based on findings.
+- **[Linux IAM Hardening]()** — Designed a secure user/group permission model on Linux, identified and remediated access-control vulnerabilities, and documented findings in a remediation report.
+- **[Attack Detection & Hardening Using SIEM]()** — Set up SIEM-based detection for an enterprise-style infrastructure, monitored for intrusion patterns, and hardened the environment against identified attack vectors.
+- **[Network Penetration Testing]()** — Ran real-world exploit simulations against a test network and produced a security remediation plan based on findings.
 
 ---
 
